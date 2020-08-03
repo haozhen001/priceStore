@@ -8,7 +8,7 @@ ELADMIN 前端源码
 
 模板文档： [https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
 
-#### Build Setup
+#### Build Setup ces
 ``` bash
 # 配置镜像加速
 https://www.ydyno.com/archives/1219.html
